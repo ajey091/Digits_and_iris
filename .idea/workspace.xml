@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38097781-bbff-4fe1-bf12-428c774a804a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../p_plotly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/DSandAlg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/DSandAlg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Akuna3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Akuna3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckPalindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckPermutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FindFactorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FindFactorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hacking_a_Google_Interview_Handout_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsUnique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Keypadcombinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Keypadcombinations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linked Lists/RemoveDups.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Linked Lists/RemoveDups.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linked Lists/SimpleClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Linked Lists/SimpleClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linked Lists/SimpleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Linked Lists/SimpleLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Merge_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MorseCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MorseCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OneAway.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PalindromeDate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeDate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PemuteArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PemuteArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PermuteArray_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PermuteArray_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programming Camp Syllabus.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Quicksort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReplaceSpaces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RotateMatrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringRotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TwoSigma1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoSigma1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TwoSigma2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoSigma2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WorkHours.py" beforeDir="false" afterPath="$PROJECT_DIR$/../WorkHours.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZeroMatrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cbb0507082bb18ff7e4b-f8361f17012860422752496b9439fa2920db2c8e/The Technical Interview Cheat Sheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/../cbb0507082bb18ff7e4b-f8361f17012860422752496b9439fa2920db2c8e/The Technical Interview Cheat Sheet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comparestrs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../comparestrs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyTemperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyTemperatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fibonacci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isPowerOfTwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../isPowerOfTwo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minelem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../minelem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../repeatedStringMatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../repeatedStringMatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringcompression.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Digits$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1557079111842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3378">
+              <caret line="289" lean-forward="true" selection-start-line="289" selection-end-line="289" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>digits</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>iris</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KNN.py" />
+        <option value="$PROJECT_DIR$/Test1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="155" />
+    <option name="y" value="60" />
+    <option name="width" value="1840" />
+    <option name="height" value="1316" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Digits" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Digits" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Digits" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38097781-bbff-4fe1-bf12-428c774a804a" name="Default Changelist" comment="" />
+      <created>1557070115376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557070115376</updated>
+      <workItem from="1557070117106" duration="6377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6377000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="155" y="60" width="1840" height="1316" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24972191" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.23774509" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.35620916" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.3298109" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3378">
+          <caret line="289" lean-forward="true" selection-start-line="289" selection-end-line="289" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
